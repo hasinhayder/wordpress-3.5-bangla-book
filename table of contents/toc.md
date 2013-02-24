@@ -30,7 +30,7 @@ Wordpress 3.5 Bangla Book
 2. Essential configuration
   - Debug mode and error logs
   - Changing the directory for uploaded media files
-  - Configurion for installing plugins in easy way
+  - Configuration for installing plugins in easy way
   - Database details
   - Turn off revisions
   - Turn off editing theme files directly
@@ -41,9 +41,12 @@ Wordpress 3.5 Bangla Book
   - Securing the config file
 3. Installing wordpress multisite
 4. Database
-  - Creating new users and access control
+  - Creating new users and  control access
   - Turn on slow query logging
-5. Useful tools for better development
+5. Installing wordpress in PaaS providers
+  - Appfog
+  - Openshift
+6. Useful tools for better development
    
 
 ...continuing
