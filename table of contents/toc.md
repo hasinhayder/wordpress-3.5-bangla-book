@@ -110,4 +110,15 @@ Wordpress 3.5 Bangla Book
 10. Managing Admin Columns
 11. Activating and Deactivating Menu Items
 12. List of important and commonly used hooks
+13. Adding extra features and buttons in Wordpress Post Editor
+14. Extending Wordpress Media Gallery
 
+### Chapter 8: Designing Responsive Themes
+1. Introduction to Responsiveness
+2. MediaQueries And Fallback Support
+3. Detecting Devices
+4. Common Media Queries
+5. Dealing wit Types
+6. Dealing with Media Attachments
+
+### Chapter 9: Security and Optimization
