@@ -60,11 +60,54 @@ Wordpress 3.5 Bangla Book
   - Understanding the entities
     - Post
     - Comment
-    - Taxonomy
+    - Tags
+    - Categories
     - Page
     - Attachment
   - Adding Comment Forms and displaying comments
-4. Using a theme framrwork (RootsTheme)
+4. Benefits of Using a theme framrwork (RootsTheme)
 5. Extending themes by adding support for thumnails, post formats, excerpts and others
 6. Removing the admin bar and customizing the login page in a theme
+
+### Chapter 4: Advanced Theming
+1. Understanding Hooks
+  - Actions
+  - Filters
+2. Sidebars
+3. Widgets 101
+  - Introduction to Widgets
+  - Registering Widget Containers and Displaying Widgets
+4. Incorporating third party plugins with the theme
+5. Understanding Taxonomies
+6. Managing post formats
+7. Designing search page
+8. Designing a 404 Page
+9. Understanding Page Templates
+10. Child Themes
+
+### Chapter 5: Extending Themes with Theme Options Panel
+1. Introduction to Settings API
+2. Introduction to Options 
+3. Introduction to Redux Framework
+
+### Chapter 6: Extending Wordpress by Custom Posts and Metaboxes
+
+### Chapter 7: Plugins 101
+1. Introduction to writing plugins
+2. Shortcodes
+  - Plain Shortcodes
+  - Shortcodes with Arguments
+3. Widgets
+4. Settings API for Plugin Options Page
+5. Introduction to SCF
+6. Advanced Plugin Programming
+  - Important Hooks
+  - Managing Activation Hooks
+  - Talking with Database
+7. Custom Queries
+8. Extending User Profile using Metaboxes (Using CMF) [Better in Chapter 6]
+9. Extending Taxonomies using Metaboxes  [Better in Chapter 6]
+10. Managing Admin Columns
+11. Activating and Deactivating Menu Items
+12. List of important and commonly used hooks
 
