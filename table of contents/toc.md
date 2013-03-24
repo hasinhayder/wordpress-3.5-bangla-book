@@ -90,7 +90,22 @@ Wordpress 3.5 Bangla Book
 2. Introduction to Options 
 3. Introduction to Redux Framework
 
-### Chapter 6: Extending Wordpress by Custom Posts and Metaboxes
+### Chapter 6: Extending Wordpress by Custom Posts, Taxonomies and Metaboxes
+1. Introduction to custom posts
+2. Adding features to custom posts
+3. Custom Taxonomies
+4. Understanding Hirerarchy for Custom Posts and Taxonomies
+5. Extending Posts using Metaboxes
+6. Extending Taxonomies using Metaboxes
+7. Extending Taxonomies and add custom fields
+8. Extending user profile with metabox and custom fields
+9. Custom Query for
+  - Posts
+  - Custom Posts
+  - Taxonomies and Custom Taxonomies
+  - Metabox values
+10. Introduction to CMF Framework for Metaboxes
+11. Introduction to PikList
 
 ### Chapter 7: Plugins 101
 1. Introduction to writing plugins
